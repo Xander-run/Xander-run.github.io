@@ -1,7 +1,7 @@
 name: "Build and Deploy"
 on:
   push:
-    branches:
+    branches: main
       - main
       - master
     paths-ignore:

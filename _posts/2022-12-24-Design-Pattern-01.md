@@ -42,7 +42,7 @@ We describe design patterns using a consistent format. Each pattern is divided i
 
 ### 1.3 The Catalog of Design Patterns & Organizing the Catalog
 
-<img src="./images/Table1.1_design_pattern_space.png"/>
+![Table1.1_design_pattern_space](./images/Table1.1_design_pattern_space.png)
 
 ### 1.4 How Design Patterns Solve Design Problems
 
